@@ -1,3 +1,3 @@
 # My blog
 
-[Blog](http://ingahampton.github.io/blog/my-blog.html)
+[Blog](http://ingahampton.github.io/website/home-page3.html)
