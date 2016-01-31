@@ -1,4 +1,4 @@
-# My blog
+# site
 
-[Blog](http://ingahampton.github.io/website/home-page3.html)
+[site](http://ingahampton.github.io/website/home-page3.html
 
